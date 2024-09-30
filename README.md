@@ -25,20 +25,7 @@ Welcome to the **Caesar Cipher** project! This is a Python program that allows u
 - If the direction is "decode", the letters are shifted backward.
 - The shift is applied modulo 26 (the length of the alphabet) to handle wrap-around.
 
-## Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PrernaUpadhyay/Caesar_Cipher.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Caesar_Cipher
-   ```
-3. Run the Python script:
-   ```bash
-   python caesar_cipher.py
-   ```
 
 ## Usage
 
@@ -72,9 +59,6 @@ Type the shift number:
 The encoded text is: mjqqt btwqi
 ```
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests with improvements, features, or bug fixes.
 
 ---
 
